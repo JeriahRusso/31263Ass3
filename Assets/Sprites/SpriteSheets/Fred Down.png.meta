@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: cc344fd552566b44d9a202bd73fd33f1
+guid: ce6c93d204c20f1498abb50532084b0d
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -130,7 +130,49 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Bob Up_0
+      name: Fred Down_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e81d99306049f4c955ad7df0526b02
+      internalID: -714979401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Down_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7810f6eaed6f084cbe2c0784e46134b
+      internalID: 105013741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Down_2
       rect:
         serializedVersion: 2
         x: 0
@@ -144,14 +186,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 70d25cb328fa8de488ac4cb70d22e7b1
-      internalID: 1152935033
+      spriteID: 5239f227f7eaa6c41afd7c289313cad3
+      internalID: -1069704638
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bob Up_1
+      name: Fred Down_3
       rect:
         serializedVersion: 2
         x: 64
@@ -165,14 +207,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b67629423ec9499459919343d038d764
-      internalID: -1483199496
+      spriteID: 43e7a0c287011434a98fb2053e65e74a
+      internalID: -617885731
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bob Up_2
+      name: Fred Down_4
       rect:
         serializedVersion: 2
         x: 0
@@ -186,29 +228,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ef8b4566000395b41b578a10a28eaafe
-      internalID: 73169977
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bob Up_3
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 0
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5ace15873e2dcd74c81426ce423a05b2
-      internalID: 522833594
+      spriteID: fdd6a0c07f62a404da4af3d79ea50219
+      internalID: -1363172276
       vertices: []
       indices: 
       edges: []
@@ -224,10 +245,11 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Bob Up_0: 1152935033
-      Bob Up_2: 73169977
-      Bob Up_3: 522833594
-      Bob Up_1: -1483199496
+      Fred Down_1: 105013741
+      Fred Down_3: -617885731
+      Fred Down_0: -714979401
+      Fred Down_2: -1069704638
+      Fred Down_4: -1363172276
   spritePackingTag: 
   pSDRemoveMatte: 0
   userData: 

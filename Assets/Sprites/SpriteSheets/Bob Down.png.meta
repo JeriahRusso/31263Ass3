@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: cc344fd552566b44d9a202bd73fd33f1
+guid: c5b2c69ee1c9ac7499e57c35917f331f
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -130,7 +130,49 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Bob Up_0
+      name: Bob Down_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21755c4e24aa45c4381bf36aa0777fa3
+      internalID: 610285829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Down_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ad8be61c9287e44a8c09998f5d78da
+      internalID: -1234080613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Down_2
       rect:
         serializedVersion: 2
         x: 0
@@ -144,14 +186,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 70d25cb328fa8de488ac4cb70d22e7b1
-      internalID: 1152935033
+      spriteID: 7c5cc2ffd2edc144ca005e86916b4a1f
+      internalID: -2026479245
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bob Up_1
+      name: Bob Down_3
       rect:
         serializedVersion: 2
         x: 64
@@ -165,14 +207,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b67629423ec9499459919343d038d764
-      internalID: -1483199496
+      spriteID: 4867914803af3be44843a1ed46b57653
+      internalID: -1422399212
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bob Up_2
+      name: Bob Down_4
       rect:
         serializedVersion: 2
         x: 0
@@ -186,29 +228,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ef8b4566000395b41b578a10a28eaafe
-      internalID: 73169977
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bob Up_3
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 0
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5ace15873e2dcd74c81426ce423a05b2
-      internalID: 522833594
+      spriteID: 5cf1477bf20372f4e811fa8e85c98f98
+      internalID: -910134240
       vertices: []
       indices: 
       edges: []
@@ -224,10 +245,11 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Bob Up_0: 1152935033
-      Bob Up_2: 73169977
-      Bob Up_3: 522833594
-      Bob Up_1: -1483199496
+      Bob Down_2: -2026479245
+      Bob Down_0: 610285829
+      Bob Down_1: -1234080613
+      Bob Down_4: -910134240
+      Bob Down_3: -1422399212
   spritePackingTag: 
   pSDRemoveMatte: 0
   userData: 

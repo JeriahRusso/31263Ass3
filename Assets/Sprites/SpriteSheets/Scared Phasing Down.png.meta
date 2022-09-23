@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: cc344fd552566b44d9a202bd73fd33f1
+guid: 476e5064b92e30c4c9496b1f2b741f28
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -130,7 +130,49 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Bob Up_0
+      name: Scared Phasing Down_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d5d403f6b62405488194b42bccd81b5
+      internalID: -681833243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scared Phasing Down_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc91ee08b2dbc14cb5ae4cc0983fe12
+      internalID: -445489243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scared Phasing Down_2
       rect:
         serializedVersion: 2
         x: 0
@@ -144,14 +186,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 70d25cb328fa8de488ac4cb70d22e7b1
-      internalID: 1152935033
+      spriteID: e9205400445e14f42a79f18bce85bc36
+      internalID: -1697641612
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bob Up_1
+      name: Scared Phasing Down_3
       rect:
         serializedVersion: 2
         x: 64
@@ -165,14 +207,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b67629423ec9499459919343d038d764
-      internalID: -1483199496
+      spriteID: 6eac8c7120a3ff541917238131b61b20
+      internalID: -1754805286
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bob Up_2
+      name: Scared Phasing Down_4
       rect:
         serializedVersion: 2
         x: 0
@@ -186,29 +228,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ef8b4566000395b41b578a10a28eaafe
-      internalID: 73169977
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bob Up_3
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 0
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5ace15873e2dcd74c81426ce423a05b2
-      internalID: 522833594
+      spriteID: 945ddf51ac842f44387884d68ff459b2
+      internalID: -645285432
       vertices: []
       indices: 
       edges: []
@@ -224,10 +245,11 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Bob Up_0: 1152935033
-      Bob Up_2: 73169977
-      Bob Up_3: 522833594
-      Bob Up_1: -1483199496
+      Scared Phasing Down_0: -681833243
+      Scared Phasing Down_1: -445489243
+      Scared Phasing Down_4: -645285432
+      Scared Phasing Down_3: -1754805286
+      Scared Phasing Down_2: -1697641612
   spritePackingTag: 
   pSDRemoveMatte: 0
   userData: 

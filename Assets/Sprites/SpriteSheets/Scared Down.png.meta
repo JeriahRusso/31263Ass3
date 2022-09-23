@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: cc344fd552566b44d9a202bd73fd33f1
+guid: 870a576aadc13e948b4b19cb87e8bbee
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -130,7 +130,49 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Bob Up_0
+      name: Scared Down_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ce020b8f34a094db758e100e4e4b1b
+      internalID: 718933177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scared Down_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48734702e0bffbe4c869b22e80f2ff2e
+      internalID: -1161190162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scared Down_2
       rect:
         serializedVersion: 2
         x: 0
@@ -144,14 +186,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 70d25cb328fa8de488ac4cb70d22e7b1
-      internalID: 1152935033
+      spriteID: 99f081d2f9a654b42941af9523d350db
+      internalID: 1001049010
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bob Up_1
+      name: Scared Down_3
       rect:
         serializedVersion: 2
         x: 64
@@ -165,14 +207,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b67629423ec9499459919343d038d764
-      internalID: -1483199496
+      spriteID: 22c64f7f137e5de45a090153b92ba48e
+      internalID: -529344071
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bob Up_2
+      name: Scared Down_4
       rect:
         serializedVersion: 2
         x: 0
@@ -186,29 +228,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ef8b4566000395b41b578a10a28eaafe
-      internalID: 73169977
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Bob Up_3
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 0
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5ace15873e2dcd74c81426ce423a05b2
-      internalID: 522833594
+      spriteID: 0edc2e0ac0fee3942a6aabb961290395
+      internalID: 1053137488
       vertices: []
       indices: 
       edges: []
@@ -224,10 +245,11 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Bob Up_0: 1152935033
-      Bob Up_2: 73169977
-      Bob Up_3: 522833594
-      Bob Up_1: -1483199496
+      Scared Down_0: 718933177
+      Scared Down_2: 1001049010
+      Scared Down_1: -1161190162
+      Scared Down_3: -529344071
+      Scared Down_4: 1053137488
   spritePackingTag: 
   pSDRemoveMatte: 0
   userData: 
