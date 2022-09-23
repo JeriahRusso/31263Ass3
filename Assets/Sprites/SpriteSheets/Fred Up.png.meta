@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: c13d0a280fc03b546a95dc89d7681830
+guid: 74b2eb97e03da50499b221ff3f429038
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -48,7 +48,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 64
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -130,7 +130,49 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Power Egg pulse_0
+      name: Fred Up_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c88200974a3b59489128938e77ce6cb
+      internalID: -1094693571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Up_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c7269f2a7ca4e418ddd0d7637c31d3
+      internalID: -953679122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fred Up_2
       rect:
         serializedVersion: 2
         x: 0
@@ -144,14 +186,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 367784a4224ed5e4eb6898199871fc7b
-      internalID: 272953306
+      spriteID: 1cbd8ed2ee5e19f4f912b9e2dc4c2c82
+      internalID: 899525301
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Power Egg pulse_1
+      name: Fred Up_3
       rect:
         serializedVersion: 2
         x: 64
@@ -165,14 +207,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8b7b019182ce0914b87e3cb8473c4e8d
-      internalID: 158219
+      spriteID: 8574a2f41957d414a82be01a1fb8fc87
+      internalID: -1658142430
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Power Egg pulse_2
+      name: Fred Up_4
       rect:
         serializedVersion: 2
         x: 0
@@ -186,29 +228,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 75b8def07cc65f545ac9a257fba2aa72
-      internalID: 1508734202
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Power Egg pulse_3
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 0
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 34dfa484d2991cd4fab3547c60f621e5
-      internalID: -1018273905
+      spriteID: a4e2d26e216899945822d3cf882e593d
+      internalID: 1900515353
       vertices: []
       indices: 
       edges: []
@@ -224,10 +245,11 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Power Egg pulse_0: 272953306
-      Power Egg pulse_3: -1018273905
-      Power Egg pulse_1: 158219
-      Power Egg pulse_2: 1508734202
+      Fred Up_3: -1658142430
+      Fred Up_2: 899525301
+      Fred Up_1: -953679122
+      Fred Up_0: -1094693571
+      Fred Up_4: 1900515353
   spritePackingTag: 
   pSDRemoveMatte: 0
   userData: 

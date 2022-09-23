@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: c13d0a280fc03b546a95dc89d7681830
+guid: 0ccea734c2b77c04daf4901410724590
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -130,7 +130,49 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Power Egg pulse_0
+      name: Bob_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b35bba4706a2b8048ba9fd6121d2c534
+      internalID: -268791747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed0791ee29190442a6e3847025e64df
+      internalID: 626353350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob_2
       rect:
         serializedVersion: 2
         x: 0
@@ -144,14 +186,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 367784a4224ed5e4eb6898199871fc7b
-      internalID: 272953306
+      spriteID: 30fee2615ea40d74195ac45ddf2c820d
+      internalID: -355844558
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Power Egg pulse_1
+      name: Bob_3
       rect:
         serializedVersion: 2
         x: 64
@@ -165,14 +207,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8b7b019182ce0914b87e3cb8473c4e8d
-      internalID: 158219
+      spriteID: 6f538fb85c415d842bfe877d986fd8a4
+      internalID: -604097056
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Power Egg pulse_2
+      name: Bob_4
       rect:
         serializedVersion: 2
         x: 0
@@ -186,29 +228,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 75b8def07cc65f545ac9a257fba2aa72
-      internalID: 1508734202
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Power Egg pulse_3
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 0
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 34dfa484d2991cd4fab3547c60f621e5
-      internalID: -1018273905
+      spriteID: e6d4bdc5cddbdb44896e57816881ebf5
+      internalID: 422672660
       vertices: []
       indices: 
       edges: []
@@ -224,10 +245,11 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Power Egg pulse_0: 272953306
-      Power Egg pulse_3: -1018273905
-      Power Egg pulse_1: 158219
-      Power Egg pulse_2: 1508734202
+      Bob_0: -268791747
+      Bob_3: -604097056
+      Bob_2: -355844558
+      Bob_1: 626353350
+      Bob_4: 422672660
   spritePackingTag: 
   pSDRemoveMatte: 0
   userData: 

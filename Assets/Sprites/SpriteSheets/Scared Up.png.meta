@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: c13d0a280fc03b546a95dc89d7681830
+guid: aedc09f2d2869384d9c12e6ebeadf59a
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -48,7 +48,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 64
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -130,7 +130,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Power Egg pulse_0
+      name: Scared Up_0
       rect:
         serializedVersion: 2
         x: 0
@@ -144,14 +144,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 367784a4224ed5e4eb6898199871fc7b
-      internalID: 272953306
+      spriteID: fe99084400f78864cb6436245675c2a2
+      internalID: 910880730
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Power Egg pulse_1
+      name: Scared Up_1
       rect:
         serializedVersion: 2
         x: 64
@@ -165,14 +165,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8b7b019182ce0914b87e3cb8473c4e8d
-      internalID: 158219
+      spriteID: 0660add2d19438342b2cd276ea7a5b07
+      internalID: 1793882817
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Power Egg pulse_2
+      name: Scared Up_2
       rect:
         serializedVersion: 2
         x: 0
@@ -186,14 +186,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 75b8def07cc65f545ac9a257fba2aa72
-      internalID: 1508734202
+      spriteID: 39134dfb2fd10ad46848168e112aecdc
+      internalID: -1360420854
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Power Egg pulse_3
+      name: Scared Up_3
       rect:
         serializedVersion: 2
         x: 64
@@ -207,8 +207,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 34dfa484d2991cd4fab3547c60f621e5
-      internalID: -1018273905
+      spriteID: 0b97dee7d9d24b740a68ecdac98371aa
+      internalID: 758479241
       vertices: []
       indices: 
       edges: []
@@ -224,10 +224,10 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Power Egg pulse_0: 272953306
-      Power Egg pulse_3: -1018273905
-      Power Egg pulse_1: 158219
-      Power Egg pulse_2: 1508734202
+      Scared Up_2: -1360420854
+      Scared Up_0: 910880730
+      Scared Up_3: 758479241
+      Scared Up_1: 1793882817
   spritePackingTag: 
   pSDRemoveMatte: 0
   userData: 

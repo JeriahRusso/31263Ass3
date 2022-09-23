@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: c13d0a280fc03b546a95dc89d7681830
+guid: abf5f49b800d3fe419f770617a03553a
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -130,7 +130,49 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Power Egg pulse_0
+      name: Scared phasing_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c7604594c2f8f346b47a980194098b5
+      internalID: 431349003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scared phasing_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc142281d83d7344bb165a7aef1a087
+      internalID: -1184399875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scared phasing_2
       rect:
         serializedVersion: 2
         x: 0
@@ -144,14 +186,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 367784a4224ed5e4eb6898199871fc7b
-      internalID: 272953306
+      spriteID: 890b4a54f447d2a478ec7eafe7e11faa
+      internalID: 292096866
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Power Egg pulse_1
+      name: Scared phasing_3
       rect:
         serializedVersion: 2
         x: 64
@@ -165,14 +207,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8b7b019182ce0914b87e3cb8473c4e8d
-      internalID: 158219
+      spriteID: d816e061e9b1f4a46894146e820e6d8e
+      internalID: -1007811135
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Power Egg pulse_2
+      name: Scared phasing_4
       rect:
         serializedVersion: 2
         x: 0
@@ -186,29 +228,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 75b8def07cc65f545ac9a257fba2aa72
-      internalID: 1508734202
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Power Egg pulse_3
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 0
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 34dfa484d2991cd4fab3547c60f621e5
-      internalID: -1018273905
+      spriteID: fb64a8ba085d5344b88f9899d84e1d2d
+      internalID: 313383905
       vertices: []
       indices: 
       edges: []
@@ -224,10 +245,11 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Power Egg pulse_0: 272953306
-      Power Egg pulse_3: -1018273905
-      Power Egg pulse_1: 158219
-      Power Egg pulse_2: 1508734202
+      Scared phasing_2: 292096866
+      Scared phasing_4: 313383905
+      Scared phasing_3: -1007811135
+      Scared phasing_0: 431349003
+      Scared phasing_1: -1184399875
   spritePackingTag: 
   pSDRemoveMatte: 0
   userData: 
